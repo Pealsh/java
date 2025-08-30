@@ -1,0 +1,35 @@
+# Maven
+target/
+build/
+
+# IDE
+.classpath
+.project
+.settings/
+
+# Eclipse
+*.class
+.metadata/
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Data files
+*.dat
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tomcat
+target/tomcat/
